@@ -6,6 +6,7 @@ using namespace std;
 
 int isListEmpty(stack s)
 {
+	cout << "gay";
 	return s.pTop == NULL;
 }
 
